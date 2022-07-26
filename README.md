@@ -8,4 +8,4 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://marianaceci.github.io/API-NASA-picture-of-the-day/](https://marianaceci.github.io/API-NASA-picture-of-the-day/)
