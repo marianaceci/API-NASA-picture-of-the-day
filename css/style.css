@@ -90,8 +90,8 @@ body {
 }
 
 .bottom-container h3{
-  margin: 20px auto;
-  width: 1000px;
+  margin: 20px 40px;
+  max-width: 1400px;
   padding: 20px;
   background-color: #031F4B;
   color: #A1AFC5;   
